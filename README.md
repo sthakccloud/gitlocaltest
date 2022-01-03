@@ -1,1 +1,1 @@
-This is a git local test file v2
+This is a git local test file v2 feature
